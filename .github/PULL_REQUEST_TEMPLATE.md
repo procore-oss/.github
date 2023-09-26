@@ -11,5 +11,5 @@ Maintainers will bump the version and do a release when they are ready to releas
 Checklist:
 
 * [ ] I have updated the necessary documentation
-* [ ] I have signed off all my commits as required by [DCO](../CONTRIBUTING.md#legal)
+* [ ] I have signed off all my commits as required by [DCO](https://GitHub.com/apps/dco/)
 * [ ] My build is green
