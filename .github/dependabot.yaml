@@ -7,5 +7,4 @@ updates:
       timezone: "America/Los_Angeles"
     labels:
       - "dependabot"
-      - "docker"
       - "dependencies"
