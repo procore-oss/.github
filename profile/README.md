@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://discord.gg/cxd58srb">
-    <img src="https://img.shields.io/badge/Chat-FFFFFF?logo=discord&style=for-the-badge"/>
+    <img src="../discord_badge_scaled.svg">
   </a>
 </p>
