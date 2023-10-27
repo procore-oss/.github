@@ -7,6 +7,6 @@
 
 <p align="center">
   <a href="https://discord.gg/cxd58srb">
-    <img src="../discord_badge_scaled.svg">
+    <img src="https://raw.githubusercontent.com/procore-oss/.github/main/discord_badge_scaled.svg">
   </a>
 </p>
