@@ -6,7 +6,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://discord.gg/cxd58srb">
+  <a href="https://discord.gg/eD8Tet6cXW">
     <img src="https://raw.githubusercontent.com/procore-oss/.github/main/discord_badge_scaled.svg">
   </a>
 </p>
