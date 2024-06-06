@@ -3,13 +3,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '30 1 * * *' # https://crontab.guru/#30_1_*_*_* (everyday at 0130)
-
 permissions:
-  issues: write
-  pull-requests: write
-
+  contents: read
 jobs:
   stale:
+    permissions:
+      issues: write
+      pull-requests: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/stale@3f3b0175e8c66fb49b9a6d5a0cd1f8436d4c3ab6 # (latest, untagged)
