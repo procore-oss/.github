@@ -12,7 +12,7 @@ jobs:
       pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/stale@3f3b0175e8c66fb49b9a6d5a0cd1f8436d4c3ab6 # (latest, untagged)
+      - uses: actions/stale@d6f8a33132340b15a7006f552936e4b9b39c00ec # (latest, untagged)
         with:
           operations-per-run: 200
           ascending: true
